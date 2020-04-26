@@ -1,0 +1,143 @@
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Debug\vasavimedicals.mdf
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Debug\vasavimedicals_log.ldf
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Debug\VasaviMedicals.exe.config
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Debug\VasaviMedicals.exe
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Debug\VasaviMedicals.pdb
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.DailyInAndOut.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.Login.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.Home.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.Logout.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.OrderBook.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.PersonSaleData.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.Properties.Resources.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.SaleEntry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.ShortExpiry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.StockAvail.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.StockEntry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.TotalReport.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.csproj.GenerateResource.cache
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.exe
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Debug\VasaviMedicals.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\vsms.mdf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\vsms_log.ldf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VasaviMedicals.exe.config
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VasaviMedicals.exe
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VasaviMedicals.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.DailyInAndOut.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Login.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Home.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Logout.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.OrderBook.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.PersonSaleData.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Properties.Resources.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.SaleEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.ShortExpiry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.StockAvail.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.StockEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.TotalReport.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.csproj.GenerateResource.cache
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.exe
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.BalanceAmount.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_Home.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_SaleEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_StockEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_VendorDetails.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_Logout.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_TotalReport.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\vasavi1.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\vasavi1.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.csproj.CopyComplete
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_GSTAmount.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_ReturnProduct.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_BackUp.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_Restore.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_LoginCreation.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.SalePrint.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.Admin_Ledgerr.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.csproj.CoreCompileInputs.cache
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.exe.licenses
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\RdlCompile.cache
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\RdlCompile.compiled
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\EnvDTE.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\stdole.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\EnvDTE80.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VSLangProj.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VSLangProj80.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\VSLangProj2.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.exe.config
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Debug\VasaviMedicals.NewPrintForm.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll

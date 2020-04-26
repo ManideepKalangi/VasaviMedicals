@@ -1,0 +1,44 @@
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Release\vasavimedicals.mdf
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Release\vasavimedicals_log.ldf
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Release\VasaviMedicals.exe.config
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Release\VasaviMedicals.exe
+C:\Users\Manideep\source\repos\VasaviMedicals\bin\Release\VasaviMedicals.pdb
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.csprojAssemblyReference.cache
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.DailyInAndOut.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.Login.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.Home.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.Logout.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.OrderBook.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.PersonSaleData.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.Properties.Resources.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.SaleEntry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.ShortExpiry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.StockAvail.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.StockEntry.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.TotalReport.resources
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.csproj.GenerateResource.cache
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.exe
+C:\Users\Manideep\source\repos\VasaviMedicals\obj\Release\VasaviMedicals.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\vasavimedicals.mdf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\vasavimedicals_log.ldf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\vsms.mdf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\vsms_log.ldf
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\VasaviMedicals.exe.config
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\VasaviMedicals.exe
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\bin\Release\VasaviMedicals.pdb
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.csprojAssemblyReference.cache
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.DailyInAndOut.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.Login.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.Home.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.Logout.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.OrderBook.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.PersonSaleData.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.Properties.Resources.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.SaleEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.ShortExpiry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.StockAvail.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.StockEntry.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.TotalReport.resources
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.csproj.GenerateResource.cache
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.exe
+C:\Users\Manideep\Desktop\New folder\VasaviMedicals\obj\Release\VasaviMedicals.pdb
